@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.2.5",
+    "aws-sdk": "^2.639.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
