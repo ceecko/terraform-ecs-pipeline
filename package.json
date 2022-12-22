@@ -3,7 +3,7 @@
     "amazon-cognito-identity-js": "^3.2.5",
     "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwk-to-pem": "^2.0.3",
     "node-fetch": "^2.6.7",
     "request": "^2.88.2"
